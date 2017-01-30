@@ -1,5 +1,5 @@
-samples
+samples/*
 .bundle/
 vendor/
-results
+results/*
 
